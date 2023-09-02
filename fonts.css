@@ -1,0 +1,183 @@
+/*  fuentes descargadas  */
+@font-face {
+    font-family: 'Poppins-Regular'; /* Nombre de la fuente */
+    src: url(fonts/Poppins/Poppins-Regular.ttf) format('truetype'); /* Formato TrueType (.ttf) */
+    /* Otras propiedades opcionales, como font-weight y font-style */  
+}
+@font-face {
+    font-family: 'Poppins-SemiBold'; /* Nombre de la fuente */
+    src: url(fonts/Poppins/Poppins-SemiBold.ttf) format('truetype'); /* Formato TrueType (.ttf) */
+    /* Otras propiedades opcionales, como font-weight y font-style */  
+}
+
+
+
+.nav_a{
+    font-family: 'Poppins-Medium', sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.nav_logo{
+    font-family: 'Poppins-SemiBold', sans-serif;
+}
+
+.titulo{
+    font-family: 'Poppins-SemiBold', sans-serif;
+    font-size: 470%;
+}
+
+.descripcion{
+    font-family: 'Poppins-SemiBold';
+    font-size: 100%;
+}
+
+.btn{
+    font-family: 'Poppins-Regular', sans-serif;
+}
+
+.en-negrita{
+    font-family: 'Poppins-Regular';
+    font-weight: 600;
+}
+
+.semi-gray{
+    font-family: 'Poppins-Regular';
+    color: #404040;
+}
+
+.rectangulo {
+    width: 250px; 
+    height: 100px; 
+    border: 3px solid #555;
+    background: #428bca;
+}
+
+.our_information h2{
+    font-family: Poppins-SemiBold, sans-serif;
+}
+
+.our_information p{
+    font-family: Poppins-Regular, sans-serif;
+}
+
+.what_is_vih h2{
+    font-family: Poppins-SemiBold, sans-serif;
+}
+
+.what_is_vih p, button{
+    font-family: Poppins-Regular, sans-serif;
+}
+
+.sintomas-titulo{
+    font-family: Poppins-SemiBold;
+    font-size: 2.98581rem;
+    font-style: normal;
+    font-weight: 500; 
+    text-align: center;
+}
+
+.subtitulo-sintomas{
+    color: #B4B4B4;
+    text-align: center;
+    font-family: Poppins-Regular;
+    font-size: 1.15463rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.tectos-botones{
+    font-family: 'Poppins-Regular';
+}
+
+.titulo-recuadro1{
+    font-family: Poppins-SemiBold;
+}
+
+.texto-recuadro1{
+    font-family: Poppins-Regular;
+}
+
+.titulo-recuadro2{
+    font-family: Poppins-SemiBold;
+    
+}
+
+.texto-recuadro2{
+    font-family: Poppins-Regular;
+}
+
+.titulo-recuadro3{
+    font-family: Poppins-SemiBold;
+}
+
+.texto-recuadro3{
+    font-family: Poppins-Regular;
+}
+
+.Titulo-principal4{
+    font-family: Poppins-SemiBold;
+    font-size: 300%;
+}
+
+.desc-titulo4{
+    font-family: Poppins-Regular;
+    font-size: 200%;
+}
+
+.tc1{
+    font-family: Poppins-SemiBold;
+}
+
+.dc1{
+    font-family: Poppins-Regular;
+}
+
+.tc2{
+    font-family: Poppins-Semibold;
+    font-size: 100%;
+}
+
+.dc2{
+    font-family: Poppins-Regular;
+}
+
+.tc3{
+    font-family: Poppins-Semibold;
+    font-size: 100%;
+}
+
+.dc3{
+    font-family: Poppins-Regular;
+}
+
+.tc4{
+    font-family: Poppins-Semibold;
+    font-size: 100%;
+}
+
+.dc4{
+    font-family: Poppins-Regular;
+}
+
+footer h2{
+    font-family: 'Poppins-SemiBold', sans-serif;
+}
+
+footer p{
+    font-family: 'Poppins-Regular', sans-serif;
+}
+
+
+
+/* seccion 5 */
+
+.sec_reco_titulo_recuadro1{
+    font-family: Poppins-SemiBold;
+}
+
+.sec_reco_texto_recuadro1{
+    font-family: Poppins-Regular;
+}
+/* fin seccion 5 */
